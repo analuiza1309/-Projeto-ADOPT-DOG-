@@ -1,0 +1,23 @@
+.navbar{
+    background-color: orange;
+}
+.ft{
+    width: 200px;
+    height: 100px;
+    margin-right: 3px;
+    margin-left: 5px;
+}
+.nav-link{
+      color: blue;
+      align-items:right;
+}
+img{
+    height: 500px;
+    width: 50%;
+}
+.pet{
+    height: 300px;
+    width: 286px;
+    margin-top: 20px;
+}
+   
