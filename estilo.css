@@ -1,14 +1,19 @@
 .navbar{
-    background-color: orange;
+    background-color: white;
+    border-color:orange;
+    border-width: 10px;
+    border-style: solid;
+   background-color: rgb(13, 13, 14);
 }
 .ft{
     width: 200px;
     height: 100px;
     margin-right: 3px;
     margin-left: 5px;
+   
 }
 .nav-link{
-      color: blue;
+      color: orange;
       align-items:right;
 }
 img{
@@ -20,4 +25,15 @@ img{
     width: 286px;
     margin-top: 20px;
 }
-   
+.navbar-brand{
+    color: orange;
+}
+.container-fluid {
+    background-color:black;
+}
+body{
+    background-color: orange;
+}
+.footer{
+ color: orange;
+}
